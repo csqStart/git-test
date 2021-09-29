@@ -4,5 +4,6 @@ public class Test1 {
         System.out.println("version1111");
         System.out.println("version1111");
         System.out.println("ssh");
+        System.out.println("pull");
     }
 }
